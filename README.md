@@ -24,7 +24,7 @@ Trabalho tanto na evolução de ambientes corporativos já em operação quanto 
 
 | Projeto | Stack | Demo | Descrição |
 | --- | --- | --- | --- |
-| [ops-dashboard-react](https://github.com/georgebarret0/ops-dashboard-react) | React, JavaScript | [Abrir demo](https://georgebarret0.github.io/ops-dashboard-react/) | Dashboard operacional para acompanhamento de indicadores, pedidos, estoque e alertas de negócio. |
+| [enterprise-dashboard-react](https://github.com/georgebarret0/enterprise-dashboard-react) | React, JavaScript | [Abrir demo](https://georgebarret0.github.io/enterprise-dashboard-react/) | Dashboard empresarial para acompanhamento de indicadores, pedidos, estoque e alertas de negócio. |
 | [enterprise-stock-api](https://github.com/georgebarret0/enterprise-stock-api) | Laravel, PHP, SQLite | API/documentação | API para controle de estoque, pedidos, movimentações e regras de negócio com testes automatizados. |
 | [conciliacao-bancaria-react-ts](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | React, TypeScript | [Abrir demo](https://georgebarret0.github.io/conciliacao-bancaria-react-ts/) | Aplicação para conciliação bancária, divergências financeiras, importação CSV e análise operacional. |
 
