@@ -22,11 +22,11 @@ Trabalho tanto na evolucao de ambientes corporativos ja em operacao quanto na co
 
 ## Projetos em destaque
 
-| Projeto | Stack | Descricao |
-| --- | --- | --- |
-| [ops-dashboard-react](https://github.com/georgebarret0/ops-dashboard-react) | React, JavaScript | Dashboard operacional para acompanhamento de indicadores, pedidos, estoque e alertas de negocio. |
-| [enterprise-stock-api](https://github.com/georgebarret0/enterprise-stock-api) | Laravel, PHP, SQLite | API para controle de estoque, pedidos, movimentacoes e regras de negocio com testes automatizados. |
-| [conciliacao-bancaria-react-ts](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | React, TypeScript | Aplicacao para conciliacao bancaria, divergencias financeiras, importacao CSV e analise operacional. |
+| Projeto | Stack | Demo | Descricao |
+| --- | --- | --- | --- |
+| [ops-dashboard-react](https://github.com/georgebarret0/ops-dashboard-react) | React, JavaScript | [Abrir demo](https://georgebarret0.github.io/ops-dashboard-react/) | Dashboard operacional para acompanhamento de indicadores, pedidos, estoque e alertas de negocio. |
+| [enterprise-stock-api](https://github.com/georgebarret0/enterprise-stock-api) | Laravel, PHP, SQLite | API/documentacao | API para controle de estoque, pedidos, movimentacoes e regras de negocio com testes automatizados. |
+| [conciliacao-bancaria-react-ts](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | React, TypeScript | [Abrir demo](https://georgebarret0.github.io/conciliacao-bancaria-react-ts/) | Aplicacao para conciliacao bancaria, divergencias financeiras, importacao CSV e analise operacional. |
 
 ## Stack principal
 
