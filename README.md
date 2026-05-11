@@ -4,11 +4,14 @@
 
 Atuo ha mais de 20 anos no desenvolvimento de sistemas empresariais, integracoes corporativas, APIs, bancos de dados e solucoes voltadas para operacoes reais de negocio.
 
-Meu foco esta em projetos remotos/PJ, modernizacao de sistemas, criacao de novas aplicacoes, sustentacao tecnica e desenvolvimento de solucoes full stack com clareza, estabilidade e capacidade de entrega.
+Meu foco esta em projetos remotos/PJ, criacao de sistemas novos, modernizacao de aplicacoes existentes, sustentacao tecnica e desenvolvimento de solucoes full stack com clareza, estabilidade e capacidade de entrega.
+
+Trabalho tanto na evolucao de ambientes corporativos ja em operacao quanto na construcao de novas solucoes: APIs, sistemas administrativos, dashboards, sites, paineis internos, automacoes, frontends e integracoes sob medida.
 
 ## Atuacao
 
 - Desenvolvimento full stack para sistemas empresariais
+- Criacao de sistemas novos, sites, paineis e aplicacoes web
 - Backend PHP com Laravel, CodeIgniter, Symfony e Zend Framework
 - APIs REST e integracoes entre sistemas internos, ERP e plataformas externas
 - SQL Server, MySQL e Oracle em ambientes operacionais
@@ -41,4 +44,3 @@ Meu foco esta em projetos remotos/PJ, modernizacao de sistemas, criacao de novas
 - Site: [georgebarreto.com.br](https://georgebarreto.com.br)
 - LinkedIn: [linkedin.com/in/georgebarreto](https://www.linkedin.com/in/georgebarreto/)
 - E-mail: [georgebarreto@gmail.com](mailto:georgebarreto@gmail.com)
-
