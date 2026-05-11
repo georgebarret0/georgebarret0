@@ -1,32 +1,32 @@
 # George Barreto
 
-**Desenvolvedor Full Stack Senior | PHP, Laravel, React & SQL Server**
+**Desenvolvedor Full Stack Sênior | PHP, Laravel, React & SQL Server**
 
-Atuo ha mais de 20 anos no desenvolvimento de sistemas empresariais, integracoes corporativas, APIs, bancos de dados e solucoes voltadas para operacoes reais de negocio.
+Atuo há mais de 20 anos no desenvolvimento de sistemas empresariais, integrações corporativas, APIs, bancos de dados e soluções voltadas para operações reais de negócio.
 
-Meu foco esta em projetos remotos/PJ, criacao de sistemas novos, modernizacao de aplicacoes existentes, sustentacao tecnica e desenvolvimento de solucoes full stack com clareza, estabilidade e capacidade de entrega.
+Meu foco está em projetos remotos/PJ, criação de sistemas novos, modernização de aplicações existentes, sustentação técnica e desenvolvimento de soluções full stack com clareza, estabilidade e capacidade de entrega.
 
-Trabalho tanto na evolucao de ambientes corporativos ja em operacao quanto na construcao de novas solucoes: APIs, sistemas administrativos, dashboards, sites, paineis internos, automacoes, frontends e integracoes sob medida.
+Trabalho tanto na evolução de ambientes corporativos já em operação quanto na construção de novas soluções: APIs, sistemas administrativos, dashboards, sites, painéis internos, automações, frontends e integrações sob medida.
 
-## Atuacao
+## Atuação
 
 - Desenvolvimento full stack para sistemas empresariais
-- Criacao de sistemas novos, sites, paineis e aplicacoes web
+- Criação de sistemas novos, sites, painéis e aplicações web
 - Backend PHP com Laravel, CodeIgniter, Symfony e Zend Framework
-- APIs REST e integracoes entre sistemas internos, ERP e plataformas externas
+- APIs REST e integrações entre sistemas internos, ERP e plataformas externas
 - SQL Server, MySQL e Oracle em ambientes operacionais
-- Sistemas administrativos, financeiros, estoque, conciliacao bancaria e e-commerce
-- Automacao de rotinas internas e melhoria de processos
+- Sistemas administrativos, financeiros, estoque, conciliação bancária e e-commerce
+- Automação de rotinas internas e melhoria de processos
 - Interfaces web com JavaScript, React e TypeScript
-- Docker, Git/GitHub e organizacao de codigo para manutencao
+- Docker, Git/GitHub e organização de código para manutenção
 
 ## Projetos em destaque
 
-| Projeto | Stack | Demo | Descricao |
+| Projeto | Stack | Demo | Descrição |
 | --- | --- | --- | --- |
-| [ops-dashboard-react](https://github.com/georgebarret0/ops-dashboard-react) | React, JavaScript | [Abrir demo](https://georgebarret0.github.io/ops-dashboard-react/) | Dashboard operacional para acompanhamento de indicadores, pedidos, estoque e alertas de negocio. |
-| [enterprise-stock-api](https://github.com/georgebarret0/enterprise-stock-api) | Laravel, PHP, SQLite | API/documentacao | API para controle de estoque, pedidos, movimentacoes e regras de negocio com testes automatizados. |
-| [conciliacao-bancaria-react-ts](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | React, TypeScript | [Abrir demo](https://georgebarret0.github.io/conciliacao-bancaria-react-ts/) | Aplicacao para conciliacao bancaria, divergencias financeiras, importacao CSV e analise operacional. |
+| [ops-dashboard-react](https://github.com/georgebarret0/ops-dashboard-react) | React, JavaScript | [Abrir demo](https://georgebarret0.github.io/ops-dashboard-react/) | Dashboard operacional para acompanhamento de indicadores, pedidos, estoque e alertas de negócio. |
+| [enterprise-stock-api](https://github.com/georgebarret0/enterprise-stock-api) | Laravel, PHP, SQLite | API/documentação | API para controle de estoque, pedidos, movimentações e regras de negócio com testes automatizados. |
+| [conciliacao-bancaria-react-ts](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | React, TypeScript | [Abrir demo](https://georgebarret0.github.io/conciliacao-bancaria-react-ts/) | Aplicação para conciliação bancária, divergências financeiras, importação CSV e análise operacional. |
 
 ## Stack principal
 
