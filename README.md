@@ -1,43 +1,56 @@
+<div align="center">
+
+![George Barreto | Desenvolvedor Full Stack Sênior](https://georgebarreto.com.br/assets/brand/og-george-barreto.png)
+
 # George Barreto
 
-**Desenvolvedor Full Stack Sênior | PHP, Laravel, React & SQL Server**
+**Desenvolvedor Full Stack Sênior**<br>
+PHP • Laravel • SQL Server • APIs • React • TypeScript • Sistemas Empresariais
 
-Atuo há mais de 20 anos no desenvolvimento de sistemas empresariais, integrações corporativas, APIs, bancos de dados e soluções voltadas para operações reais de negócio.
+[![Site](https://img.shields.io/badge/Site-georgebarreto.com.br-1769c7?style=for-the-badge)](https://georgebarreto.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Barreto-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgebarreto/)
+[![E-mail](https://img.shields.io/badge/E--mail-contato-334155?style=for-the-badge)](mailto:georgebarreto@gmail.com)
 
-Meu foco está em projetos remotos/PJ, criação de sistemas novos, modernização de aplicações existentes, sustentação técnica e desenvolvimento de soluções full stack com clareza, estabilidade e capacidade de entrega.
+</div>
 
-Trabalho tanto na evolução de ambientes corporativos já em operação quanto na construção de novas soluções: APIs, sistemas administrativos, dashboards, sites, painéis internos, automações, frontends e integrações sob medida.
+## Perfil
 
-## Atuação
+Atuo há mais de 20 anos com desenvolvimento de sistemas empresariais, integrações corporativas, bancos relacionais, APIs e aplicações web voltadas para operação real.
 
-- Desenvolvimento full stack para sistemas empresariais
-- Criação de sistemas novos, sites, painéis e aplicações web
-- Backend PHP com Laravel, CodeIgniter, Symfony e Zend Framework
-- APIs REST e integrações entre sistemas internos, ERP e plataformas externas
-- SQL Server, MySQL e Oracle em ambientes operacionais
-- Sistemas administrativos, financeiros, estoque, conciliação bancária e e-commerce
-- Automação de rotinas internas e melhoria de processos
-- Interfaces web com JavaScript, React e TypeScript
-- Docker, Git/GitHub e organização de código para manutenção
+Meu foco está em projetos remotos/PJ, criação de sistemas novos, modernização de aplicações existentes, sustentação evolutiva e desenvolvimento full stack com clareza técnica, estabilidade e capacidade de entrega.
+
+Tenho experiência em ambientes administrativos, financeiros, estoque, conciliação bancária, e-commerce, automação de rotinas internas e integrações com ERP, incluindo RM/TOTVS.
 
 ## Projetos em destaque
 
-| Projeto | Stack | Demo | Descrição |
+| Projeto | Propósito | Stack | Demo |
 | --- | --- | --- | --- |
-| [enterprise-dashboard-react](https://github.com/georgebarret0/enterprise-dashboard-react) | React, JavaScript | [Abrir demo](https://georgebarret0.github.io/enterprise-dashboard-react/) | Dashboard gerencial para relatórios executivos, KPIs e apoio à tomada de decisão. |
-| [enterprise-stock-api](https://github.com/georgebarret0/enterprise-stock-api) | Laravel, PHP, SQLite | API/documentação | API para controle de estoque, pedidos, movimentações e regras de negócio com testes automatizados. |
-| [conciliacao-bancaria-react-ts](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | React, TypeScript | [Abrir demo](https://georgebarret0.github.io/conciliacao-bancaria-react-ts/) | Aplicação para conciliação bancária, divergências financeiras, importação CSV e análise operacional. |
+| [Dashboard Gerencial](https://github.com/georgebarret0/enterprise-dashboard-react) | Indicadores, prioridades, financeiro e apoio à decisão executiva. | React, JavaScript, CSS | [Abrir demo](https://georgebarret0.github.io/enterprise-dashboard-react/) |
+| [Controle de Estoque com API + Laravel](https://github.com/georgebarret0/enterprise-stock-api) | Produtos, materiais, pedidos, movimentações e regras de estoque por API. | Laravel, PHP, MySQL/SQLite, PHPUnit | [Ver demo visual](https://georgebarreto.com.br/demos/enterprise-stock/) |
+| [Conciliação Bancária](https://github.com/georgebarret0/conciliacao-bancaria-react-ts) | Rotina financeira para comparar extrato, lançamentos internos, CSV e divergências. | React, TypeScript, Vite | [Abrir demo](https://georgebarret0.github.io/conciliacao-bancaria-react-ts/) |
+
+## Atuação técnica
+
+- Desenvolvimento full stack para sistemas empresariais e aplicações web.
+- Backend PHP com Laravel, CodeIgniter, Symfony e Zend Framework.
+- APIs REST, integrações ERP, rotinas internas e contratos entre sistemas.
+- SQL Server, MySQL, PostgreSQL e Oracle em ambientes operacionais.
+- Interfaces administrativas, dashboards, sites profissionais e painéis internos.
+- Modernização de sistemas existentes, organização de código e continuidade operacional.
+- Automação de processos financeiros, estoque, conciliação e rotinas administrativas.
 
 ## Stack principal
 
-![PHP](https://img.shields.io/badge/PHP-334155?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-334155?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-334155?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-334155?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-334155?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-334155?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-334155?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-334155?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
 
 ## Contato
 
